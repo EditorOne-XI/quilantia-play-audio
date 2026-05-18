@@ -1,0 +1,4 @@
+# respect ignores
+qpa
+*.out
+Mkfile.old

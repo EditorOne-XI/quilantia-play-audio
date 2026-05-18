@@ -1,0 +1,9 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+AlignAfterOpenBracket: DontAlign
+AllowShortBlocksOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+ColumnLimit: 0
+IndentWidth: 4
+---
